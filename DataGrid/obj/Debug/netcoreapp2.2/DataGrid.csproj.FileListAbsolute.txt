@@ -1,0 +1,11 @@
+/home/alkk/tutorials/cSharp/dotnet/DataGrid/bin/Debug/netcoreapp2.2/DataGrid.deps.json
+/home/alkk/tutorials/cSharp/dotnet/DataGrid/bin/Debug/netcoreapp2.2/DataGrid.runtimeconfig.json
+/home/alkk/tutorials/cSharp/dotnet/DataGrid/bin/Debug/netcoreapp2.2/DataGrid.runtimeconfig.dev.json
+/home/alkk/tutorials/cSharp/dotnet/DataGrid/bin/Debug/netcoreapp2.2/DataGrid.dll
+/home/alkk/tutorials/cSharp/dotnet/DataGrid/bin/Debug/netcoreapp2.2/DataGrid.pdb
+/home/alkk/tutorials/cSharp/dotnet/DataGrid/obj/Debug/netcoreapp2.2/DataGrid.csprojAssemblyReference.cache
+/home/alkk/tutorials/cSharp/dotnet/DataGrid/obj/Debug/netcoreapp2.2/DataGrid.csproj.CoreCompileInputs.cache
+/home/alkk/tutorials/cSharp/dotnet/DataGrid/obj/Debug/netcoreapp2.2/DataGrid.AssemblyInfoInputs.cache
+/home/alkk/tutorials/cSharp/dotnet/DataGrid/obj/Debug/netcoreapp2.2/DataGrid.AssemblyInfo.cs
+/home/alkk/tutorials/cSharp/dotnet/DataGrid/obj/Debug/netcoreapp2.2/DataGrid.dll
+/home/alkk/tutorials/cSharp/dotnet/DataGrid/obj/Debug/netcoreapp2.2/DataGrid.pdb

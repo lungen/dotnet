@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/alkk/tutorials/cSharp/dotnet/DataGrid/DataGrid.csproj": {}
+  },
+  "projects": {
+    "/home/alkk/tutorials/cSharp/dotnet/DataGrid/DataGrid.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/alkk/tutorials/cSharp/dotnet/DataGrid/DataGrid.csproj",
+        "projectName": "DataGrid",
+        "projectPath": "/home/alkk/tutorials/cSharp/dotnet/DataGrid/DataGrid.csproj",
+        "packagesPath": "/home/alkk/.nuget/packages/",
+        "outputPath": "/home/alkk/tutorials/cSharp/dotnet/DataGrid/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/home/alkk/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.2, )"
+            },
+            "System.Xml.XDocument": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

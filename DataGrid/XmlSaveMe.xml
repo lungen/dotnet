@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!--Dokument enthält Personen-->
+<Articles>
+  <Article>
+    <ArticleNumber>666333</ArticleNumber>
+    <GS>05</GS>
+    <ID>44</ID>
+  </Article>
+    <Article>
+    <ArticleNumber>333777</ArticleNumber>
+    <GS>95</GS>
+    <ID>84</ID>
+  </Article>
+</Articles>

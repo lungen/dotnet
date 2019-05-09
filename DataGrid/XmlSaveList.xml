@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<ArrayOfArticle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Article>
+    <ArticleNumber>123456</ArticleNumber>
+    <GS>01</GS>
+    <ID>2</ID>
+    <LastEdit>2019-05-09T21:30:31.0662634+02:00</LastEdit>
+  </Article>
+  <Article>
+    <ArticleNumber>654321</ArticleNumber>
+    <GS>22</GS>
+    <ID>21</ID>
+    <LastEdit>2019-05-09T21:30:31.0679418+02:00</LastEdit>
+  </Article>
+  <Article>
+    <ArticleNumber>111444</ArticleNumber>
+    <GS>44</GS>
+    <ID>123</ID>
+    <LastEdit>0001-01-01T00:00:00</LastEdit>
+  </Article>
+  <Article>
+    <ArticleNumber>422555</ArticleNumber>
+    <GS>44</GS>
+    <ID>123</ID>
+    <LastEdit>0001-01-01T00:00:00</LastEdit>
+  </Article>
+</ArrayOfArticle>
