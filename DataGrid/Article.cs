@@ -68,7 +68,6 @@ namespace DataGrid
                 ID = id;
                 return "ID set ok";
             }
-
         }
     }
 }
